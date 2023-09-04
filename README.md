@@ -1,4 +1,4 @@
-# Site Cafeteria
+**Site Cafeteria**
 CURSO: Desenvolvedor Front End
 
 DISCIPLINA: Desenvolvimento Web- Front End
@@ -20,7 +20,7 @@ Deixar o topo fixo na parte superior da página;
 Posicionar o link do rodapé de forma que ele fique "flutuando";
 Aplicar o efeito parallax nas imagens de fundo da página;
 
-Conhecendo o projeto
+**Conhecendo o projeto**
 O projeto que será criado tem como diferencial:
 
 Utilização da tag HTML <ul> que será responsável pela criação de uma lista;
@@ -29,17 +29,16 @@ reposicionar os elementos HTML da página para ficarem com o mesmo padrão do la
 deixar o topo sempre visível na parte superior da página (mesmo no caso do usuário rolar o scroll para o fim da página);
 Utilização da propriedade CSS background que será responsável pela aplicação do efeito parallax nas imagens de fundo do projeto.
 
-
-Integrantes
+**Integrantes**
 Cleide Conceição Nascimento
 
-Orientador
+**Orientador**
 
 
-Instruções de utilização
+**Instruções de utilização**
 
 
-#Documentação
+**Documentação**
 #Documentação de Contexto
 #Especificação do Projeto
 #Metodologia
